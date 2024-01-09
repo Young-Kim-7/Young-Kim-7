@@ -1,24 +1,23 @@
 # Welcome to My Github Profile!
 
 ## 👋 About Me
-Hello there, I'm Young Kim! I am a passionate and lifelong learner who strives for continuously developing my professional career. I have worked for more than 10 years in the HR and SCM fields as diverse positions, developing my critical thinking and analytical skills. In the meantime, I became curious about the profound effect of data analytics in the fields. I then got to have a desire to horn more technical and professional skills. That's why I have started off my new journey with data and insights.
+Greeting! I am Young Kim, a lifelong enthusiast of learning and professional growth. With over a decade of experience in HR and Supply Chain Management(SCM), I've honed my critical thinking and analytical abilities. My journey took an exciting turn when I discovered the transformative potential of data analytics in my field, igniting a desire to further develop my technical expertise. This newfound passion led me to embark on a journey in data and insights.
 
-I am currently pursuing MS in Business Analytics at Washington University in St. Louis focusing on machine learning, deep learning, cloud computing, database management and HR/people analytics. My ultimate goal is to leverage these powerful tools to solve complex business problems and make a good influnce on the world!   
+currently, I'm pursuing a Master of Science in Business Analytics at Washington University in St. Louis. My studies focus on machine learning, deep learning, cloud computing, database management, and HR/people analytics. My ambition is to harness these advanced tools to address complex business challenges and positively impact the world.
 
 ## 💡 Projects with My Work
-* WashU: school projects & assignments
-* DataCamp: DataCamp case projects
-* Kaggle: Kaggle practices and codes
-* Naver Python Projects: the Coaching Study Data Science 2024 project provided by No.1 tech company in South Korea 
+* Washington University: Engaging in school projects and assignments.
+* Naver Python Projects: Contributing to the 'Coaching Study Data Science 2024' project, an initiative by South Korea's leading technology company.
+* DataCamp: Undertaking case projects for hands-on learning.
+* Kaggle: Participating in practices and coding challenges. 
 
 ## 📱 Contact
-I always welcome anyone who contact me for collaboration and discussion on data science, people/HR analytics and other interesting topics.
-You can reach out to me via:
+I am open to collaborations and discussions on data science, HR/people analytics, and other intriguing subjects. Feel free to connect with me:
 
 * Email: k.yeongguk@wustl.edu
 * Linkedin: linkedin/in/ygkim7
 
-Let's connect, and make our world better with data!
+Let's join forces to harness the power of data for a better world!
 
 ## 🙏 Thank you
-Thank you for visiting my GitHub and taking the time to learn a bit about me and my journey. I am so excited to share my projects, collaborate with you, and continue to explore the fasnating world of data analytics.
+Your visit to my GitHub profile is greatly appreciated. I'm thrilled to share my projects, collaborate with like-minded individuals, and delve deeper into the captivating realm of data analytics.
