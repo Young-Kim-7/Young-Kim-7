@@ -7,7 +7,7 @@ currently, I'm pursuing a Master of Science in Business Analytics at Washington 
 
 ## 💡 Projects with My Work
 * **Washington University**: Engaging in school projects and assignments.
-* **Naver Python Projects**: Contributing to the 'Coaching Study Data Science 2024' project, an initiative by South Korea's leading technology company.
+* **Naver Python Projects**: Contributing to the 'Coaching Study Data Science 2024' project, an initiative by South Korea's leading tech company.
 * **DataCamp**: Undertaking case projects for hands-on learning.
 * **Kaggle**: Participating in practices and coding challenges. 
 
