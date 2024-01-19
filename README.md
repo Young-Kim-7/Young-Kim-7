@@ -15,7 +15,7 @@ currently, I'm pursuing a Master of Science in Business Analytics at Washington 
 I am open to collaborations and discussions on data science, HR/people analytics, and other intriguing subjects. Feel free to connect with me:
 
 * Email: k.yeongguk@wustl.edu
-* Linkedin: linkedin/in/ygkim7
+* Linkedin: linkedin/in/Young-Kim-7
 
 Let's join forces to harness the power of data for a better world!
 
