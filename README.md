@@ -6,7 +6,8 @@ Greeting! I am Young Kim, a lifelong enthusiast of learning and professional gro
 currently, I'm pursuing a Master of Science in Business Analytics at Washington University in St. Louis. My studies focus on machine learning, deep learning, cloud computing, database management, and HR/people analytics. My ambition is to harness these advanced tools to address complex business challenges and positively impact the world.
 
 ## 💡 Projects with My Work
-* **Machine Learning / Deep Learning**: Python coding for ML/DL. 
+* **Machine Learning / Deep Learning**: Python coding for ML/DL.
+* **People Analytics**: People Analytics projects. 
 * **Washington University**: Engaging in school projects and assignments.
 * **Naver Python Projects**: Participating in the 'Data Science 2024' project, an initiative by South Korea's leading tech company.
 * **DataCamp**: Undertaking case projects for hands-on learning.
