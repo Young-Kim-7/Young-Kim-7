@@ -3,7 +3,7 @@
 ## 👋 About Me
 Greeting! I am Young Kim, a lifelong enthusiast of learning and professional growth. With over a decade of experience in HR and Supply Chain Management(SCM), I've honed my critical thinking and analytical abilities. My journey took an exciting turn when I discovered the transformative potential of data analytics in my field, igniting a desire to further develop my technical expertise. This newfound passion led me to embark on a journey in data and insights.
 
-currently, I'm pursuing a Master of Science in Business Analytics at Washington University in St. Louis. My studies focus on machine learning, deep learning, cloud computing, database management, and HR/people analytics. My ambition is to harness these advanced tools to address complex business challenges and positively impact the world.
+Currently, I'm pursuing a Master of Science in Business Analytics at Washington University in St. Louis. My studies focus on machine learning, deep learning, cloud computing, database management, and HR/people analytics. My ambition is to harness these advanced tools to address complex business challenges and positively impact the world.
 
 ## 💡 Projects with My Work
 * **Machine Learning / Deep Learning**: Python coding for ML/DL by using kaggle datasets.
