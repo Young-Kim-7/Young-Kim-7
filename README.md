@@ -9,8 +9,9 @@ Currently, I'm pursuing a Master of Science in Business Analytics at Washington 
 * **Machine Learning / Deep Learning**: Python coding for ML/DL by using kaggle datasets.
 * **People Analytics**: People Analytics projects. 
 * **Washington University**: Engaging in school projects and assignments.
+* **Natural Language Processing**: Text Data Analysis projects in English and Korean.
 * **Naver Python Projects**: Participating in the 'Data Science 2024' project, an initiative by South Korea's leading tech company.
-* **DataCamp**: Undertaking case projects for hands-on learning.
+
 
 ## 📱 Contact
 I am open to collaborations and discussions on data science, HR/people analytics, and other intriguing subjects. Feel free to connect with me:
